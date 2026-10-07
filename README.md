@@ -1,10 +1,10 @@
 # Kingangi-Gitau
 
-### HealthTech SaaS Product Leader | Software Engineering | Data & AI
+### HealthTech SaaS Product Leader | Date Engineering | AI
 
 I build and lead software products that turn complex healthcare workflows and data into practical, scalable systems.
 
-I have 10+ years of experience working across HealthTech, HMIS, SaaS platforms, health data engineering, interoperability, analytics, and digital health implementation.
+I have 10+ years of experience working across HealthTech, HMIS, EMR, EHR, SaaS platforms, CDS, health data engineering, interoperability, analytics, and digital health implementation.
 
 My recent work sits at the intersection of:
 
