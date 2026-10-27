@@ -127,5 +127,12 @@ I'm particularly interested in projects involving:
 * Technical product development
 
 ---
+## 📚 Publications
 
-**Building software at the intersection of products, data, and real-world problems.**
+### A Systematic Review of Transformer-Based Language Models for Clinical Decision Support in EMR-Based Systems: Implications for Epilepsy Care in Low-Resource Settings
+
+My research explores the application of transformer-based language models to clinical decision support in electronic medical record (EMR) systems, with implications for epilepsy care and resource-constrained healthcare settings.
+
+🔗 **[Read the published paper](https://ajest.org/index.php/ajest/article/view/1061/914))**
+
+**Research interests:** Clinical AI · Machine Learning · Electronic Medical Records · Clinical Decision Support · Health Data Science
